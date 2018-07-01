@@ -1,1 +1,5 @@
-# Androi-Device-Lenovo-A369i-LP
+# LineageOS 14.1
+
+
+
+
