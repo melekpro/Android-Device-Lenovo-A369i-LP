@@ -1,7 +1,7 @@
 /misc		emmc	/dev/misc
-/data		ext4	/dev/block/mmcblk0p7
-/system		ext4	/dev/block/mmcblk0p5
-/cache		ext4	/dev/block/mmcblk0p6
+/data		ext4	/dev/block/mmcblk0p6
+/system		ext4	/dev/block/mmcblk0p4
+/cache		ext4	/dev/block/mmcblk0p5
 /boot		emmc	/dev/bootimg
 /recovery	emmc	/dev/recovery
 /emmc		vfat	/dev/block/mmcblk0p8
