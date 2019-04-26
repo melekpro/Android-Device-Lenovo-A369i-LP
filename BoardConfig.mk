@@ -3,8 +3,9 @@
 
 LOCAL_PATH := device/Lenovo/A369i
 
-# Off NINJA
-USE_NINJA := false
+# NINJA is enabled for fasted building
+# Set 'false' to disable use NINJA
+USE_NINJA := true
 
 # Board
 TARGET_ARCH := arm
